@@ -2,7 +2,7 @@
 
 1.  **Install Node.js for your platform (MacOS, Windows or Linux)**
 
-2.  [**2. Open a command prompt and
+2.  [**Open a command prompt and
     type:**](https://www.git-tower.com/blog/command-line-cheat-sheet/)
     
         mkdir myapp && cd myapp
